@@ -1,4 +1,4 @@
-//funcao que verifica palindromos
+//01 funcao que verifica palindromos
 
 let palavra="desenvolvimento";
 
@@ -14,7 +14,7 @@ function verificaPalindromo(palavra){
 verificaPalindromo(palavra);
 
 
-//funcao que recebe array e retorna o indice de maior valor
+//02 funcao que recebe array e retorna o indice de maior valor
 
 let numbers=[2,3,6,7,10,1];
 let maior=0;
@@ -29,4 +29,24 @@ function verificaMaior(numbers){
     console.log(numbers.indexOf(maior));
 }
 
+
+
 verificaMaior(numbers);
+
+
+//03 funcao que recebe array e retorna o indice de menor valor
+
+let numbers2=[2,4,6,7,10,0,-3];
+let menor=0;
+
+function verificaMenor(numbers2){
+    for (let i=0; i<numbers2.length; i+=1){
+        if (numbers2[i]<menor){
+            menor=numbers2[i];
+        }
+    }
+    
+    console.log(numbers2.indexOf(menor));
+}
+
+verificaMenor(numbers2);

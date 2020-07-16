@@ -6,7 +6,6 @@ let info={
 };
 
 for (let i in info) {
-    console.log(i)
+    console.log(info[i])
 }
-
 

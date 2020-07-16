@@ -51,7 +51,7 @@ function verificaMenor(numbers2){
 
 verificaMenor(numbers2);
 
-// Funcao que recebe array de nomes e retorne o nome com maior quantidade de caracteres
+//04 Funcao que recebe array de nomes e retorne o nome com maior quantidade de caracteres
 
 let nomes=["Jose","Lucas", "Nadia", "Fernanda", "Cairo", "Joana"];
 let nomeMaior="";
@@ -66,3 +66,34 @@ function maiorNome(nomes){
 }
 
 maiorNome(nomes);
+
+//05 funcao que recebe um array de inteiros e retorne o inteiro que mais se repete
+
+let numbers3=[2,3,2,5,8,2,3];
+let repetido=0;
+
+function maisRepetido(numbers3){
+    for (let i=0; i<numbers3.length; i+=1){
+        if(numbers3[i]==numbers3[i+1]){
+            repetido=numbers3[i+1];
+        }
+    }    
+    console.log(repetido)
+}
+
+maisRepetido(numbers3);
+
+
+//06 funcao que receba um numero inteiro N e retorne o somatorio de todos os numeros de 1 ate N
+
+let n=5;
+let total=0;
+
+function somatoriaN(n){
+    for(let i=1;i<=n; i+=1){
+        total=total+i;
+    }
+    console.log(total);
+}
+
+somatoriaN(n);

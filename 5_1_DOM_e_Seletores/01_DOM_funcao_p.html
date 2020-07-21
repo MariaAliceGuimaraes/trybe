@@ -74,13 +74,23 @@
         //4 Crie uma função que corrija o texto da tag <h1>.
 
         function changeText(){
-            document.getElementsByClassName("title")[0].innerHTML="Exercício 5.1 - JavaScript"
+            document.getElementsByClassName("title")[0].innerHTML="Exercício 5.1 - JavaScript";
         }
         changeText();
     
         //5 Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
+
+        function upperCase(){
+            document.getElementsByTagName("p").toUpperCase().innerHTML;
+        }
+        upperCase();
     
         //6 Crie uma função que exiba o conteúdo de todas as tags <p> no console.
+
+        function paragraphContent(){
+          console.log(document.getElementsByTagName("p").innerHTML);
+        }
+        paragraphContent();
     
       </script>
   </body>

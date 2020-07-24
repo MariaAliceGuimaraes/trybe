@@ -1,0 +1,193 @@
+body{
+    font-family: 'Lato', sans-serif;;
+}
+
+#white{
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#white:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+#grey{
+    background-color: grey;
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#grey:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+#black{
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#black:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+#beige{
+    background-color: rgb(150, 144, 127);
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#beige:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+#whitetext {
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#whitetext:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+
+#greytext {
+    background-color: grey;
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#greytext:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+
+#blacktext {
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#blacktext:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+#beigetext {
+    background-color: rgb(150, 144, 127);
+    height: 30px;
+    width: 100px;
+    border: 0.5px solid rgb(20, 20, 20);
+}
+#beigetext:hover{ 
+    border:1px solid rgb(190, 124, 23);
+}
+
+#Lato{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    height: 30px;
+    width: 134px;
+    text-align: center;
+    border: 0px;
+}
+#Lato:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#Allura{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    height: 30px;
+    width: 134px;
+    text-align: center;
+    border: 0px;
+}
+#Allura:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#BioRhyme{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    height: 30px;
+    width: 134px;
+    text-align: center;
+    border: 0px;
+}
+#BioRhyme:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#small-font{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    border: 0px;
+    width: 134px;
+    text-align: center;
+    height: 30px;
+}
+#small-font:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#medium-font{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    border: 0px;
+    width: 134px;
+    text-align: center;
+    height: 30px;
+}
+#medium-font:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#large-font{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    border: 0px;
+    width: 134px;
+    text-align: center;
+    height: 30px;
+}
+#large-font:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#small-line-height{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    border: 0px;
+    width: 134px;
+    text-align: center;
+    height: 30px;
+}
+#small-line-height:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#medium-line-height{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    border: 0px;
+    width: 134px;
+    text-align: center;
+    height: 30px;
+}
+#medium-line-height:hover{ 
+    background-color:rgb(190, 124, 23);
+}
+
+#large-line-height{
+    background-color:rgb(20, 20, 20);
+    color: white;
+    border: 0px;
+    width: 134px;
+    text-align: center;
+    height: 30px;
+}
+#large-line-height:hover{ 
+    background-color:rgb(190, 124, 23);
+}

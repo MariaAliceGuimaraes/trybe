@@ -16,3 +16,16 @@ function createStates (){
 window.onload = function(){
     createStates();
 }
+
+
+
+
+
+function sendForm(event) {
+    event.preventDefault();
+  }
+  window.onload = function () {
+    createStates();
+    document.getElementById('send').addEventListener('click', sendForm);
+  }
+  

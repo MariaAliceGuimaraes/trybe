@@ -68,14 +68,11 @@ figure {
         max-width: 2100px;
     }
 
-
     figure {
         flex-wrap: wrap;
         width: 31%;
         margin: 1%;
     }
-
-    
 
     .container{
         display: flex;

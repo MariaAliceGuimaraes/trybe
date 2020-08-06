@@ -1,0 +1,56 @@
+
+
+body {
+    font-size: 22px;
+    background-color: rgb(27, 27, 27);
+    color: rgb(197, 197, 197);
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+    max-width: 50%;
+}
+
+h2 {
+
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 100%;
+}
+
+figure {
+    margin: 3%;
+    width:94%;
+}
+
+@media (min-width:1000px){
+
+    body {
+        font-size: 30px;
+        background-color: rgb(80, 58, 58);
+        color: rgb(197, 197, 197);
+        font-family: 'Lato', sans-serif;
+        margin:5%;
+    }
+
+
+    figure {
+        flex-wrap: wrap;
+        width: 40%;
+    }
+
+    
+
+    .container{
+        display: flex;
+        justify-content: center;
+    }
+
+}

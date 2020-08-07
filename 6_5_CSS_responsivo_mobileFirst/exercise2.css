@@ -29,7 +29,11 @@ h3{
 }
 
 footer {
-  background-color: rgb(14, 14, 14);
+  background-image: url("https://i.pinimg.com/originals/76/1d/18/761d183dea7cc21fbc0ee5f4418e36f0.jpg");
+  opacity: 70%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: black;
 }
 
 footer p {
@@ -48,7 +52,10 @@ p {
 
 .titulo {
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  line-height: 50px;
 }
 
 nav {
@@ -85,12 +92,83 @@ aside ul li {
   margin: 1%;
   background-color: rgb(14, 14, 14);
   list-style-type: none;
-  width: 24%;
-  height: 50px;
+  width: 27%;
+  height: 60px;
   text-align: center;
-  align-content: center;
+  font-size: 18px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 li:hover{
   color: rgb(160, 134, 21);
+  background-color:  rgb(0, 0, 0);
+}
+
+@media (min-width: 700px) and (max-width: 1000px){
+
+  aside {
+    max-width: 100%;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  aside ul {
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px;
+  }
+
+  aside ul li {
+    margin: 0.5%;
+    background-color: rgb(14, 14, 14);
+    list-style-type: none;
+    width: 15%;
+    height: 60px;
+    text-align: center;
+    font-size: 22px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}
+
+@media (min-width: 1000px){
+
+  aside {
+    max-width: 100%;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  aside ul {
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px;
+  }
+
+  aside ul li {
+    margin: 0.5%;
+    background-color: rgb(14, 14, 14);
+    list-style-type: none;
+    width: 15%;
+    height: 60px;
+    text-align: center;
+    font-size: 26px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
 }

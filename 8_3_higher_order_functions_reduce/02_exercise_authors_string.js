@@ -64,9 +64,9 @@ const books = [
   },
 ];
 
-const authorsNames = (acc, book, curr, array) => {
-  if (curr === array.length - 1) return `${acc} ${book.author.name}.`;
-  return `${acc} ${book.author.name},`;
+const authorsNames = (acc, currValue, curr, array) => {
+  if (curr === array.length - 1) return `${acc} ${currValue.author.name}.`;
+  return `${acc} ${currValue.author.name},`;
 }
 
 function allNames() {

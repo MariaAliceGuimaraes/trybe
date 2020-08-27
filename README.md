@@ -7,63 +7,63 @@ This repository contains all exercises developed by Maria Alice Guimarães.
 
 ### Section 1: Introduction - Unix and Bash
 
-  - [ ] 1.1 Unix & Bash - Part 1
+  - [x] 1.1 Unix & Bash - Part 1
  
-  - [ ] 1.2 Unix & Bash - Part 2
+  - [x] 1.2 Unix & Bash - Part 2
  
-  - [ ] 1.3 Shell Script
+  - [x] 1.3 Shell Script
  
  
 ### Section 2: Git & GitHub
 
-  - [ ] 2.1 What is Git & GitHub?
+ - [x] 2.1 What is Git & GitHub?
  
- - [ ] 2.2 Git&GitHub - Understanding the commands
+ - [x] 2.2 Git&GitHub - Understanding the commands
  
- - [ ] 2.3 Understanding the Internet
+ - [x] 2.3 Understanding the Internet
  
  
 ### Section 3: Introduction to HTML & CSS
 
- - [ ] 3.1 HTML & CSS: Webpage structure
+ - [x] 3.1 HTML & CSS: Webpage structure
  
- - [ ] 3.2 HTML & CSS: Using CSS
+ - [x] 3.2 HTML & CSS: Using CSS
  
- - [ ] 3.3 HTML & CSS: Selectors and positioning
+ - [x] 3.3 HTML & CSS: Selectors and positioning
  
- - [ ] 3.4 Semantic HTML
+ - [x] 3.4 Semantic HTML
  
- - [ ] 3.5 Project 01: HTML & CSS
+ - [x] 3.5 Project 01: HTML & CSS
  
  
 ### Section 4: Introduction to JavaScript
 
- - [ ] 4.1 First steps JavaScript
+ - [x] 4.1 First steps JavaScript
  
- - [ ] 4.2 JavaScript: Arrays and For loop
+ - [x] 4.2 JavaScript: Arrays and For loop
  
- - [ ] 4.3 JavaScript: Programming logic and algorithms
+ - [x] 4.3 JavaScript: Programming logic and algorithms
  
- - [ ] 4.4 JavaScript: Objects and functions
+ - [x] 4.4 JavaScript: Objects and functions
  
- - [ ] 4.5 Project 02: Playground functions
+ - [x] 4.5 Project 02: Playground functions
  
  
 ### Section 5: Introduction to JavaScript
 
- - [ ] 5.1 JavaScript: DOM and selectors
+ - [x] 5.1 JavaScript: DOM and selectors
  
- - [ ] 5.2 JavaScript: working with elements
+ - [x] 5.2 JavaScript: working with elements
  
- - [ ] 5.3 JavaScript: elements
+ - [x] 5.3 JavaScript: elements
  
- - [ ] 5.4 JavaScript: Web Storage
+ - [x] 5.4 JavaScript: Web Storage
  
- - [ ] 5.5 Project 03: Meme generator
+ - [x] 5.5 Project 03: Meme generator
  
- - [ ] 5.5 Project 04: Art with Pixels
+ - [x] 5.5 Project 04: Art with Pixels
  
- - [ ] 5.5 Project 05: To-do list
+ - [x] 5.5 Project 05: To-do list
 
 
 ### Front-End
@@ -71,48 +71,48 @@ This repository contains all exercises developed by Maria Alice Guimarães.
 
 ### Section 6: Introduction to Front-end
 
- - [ ] 6.1 HTML&CSS - Forms
+ - [x] 6.1 HTML&CSS - Forms
  
- - [ ] 6.2 JavaScript Libraries and CSS Frameworks
+ - [x] 6.2 JavaScript Libraries and CSS Frameworks
  
- - [ ] 6.3 Introduction - CSS Flexbox (Part I)
+ - [x] 6.3 Introduction - CSS Flexbox (Part I)
  
- - [ ] 6.4 CSS FLexbox - (Part II)
+ - [x] 6.4 CSS FLexbox - (Part II)
  
- - [ ] 6.5 Responsive CSS - Mobile First
+ - [x] 6.5 Responsive CSS - Mobile First
  
- - [ ] 6.6 Project 08: Facebook initial page
+ - [x] 6.6 Project 08: Facebook initial page
  
  
 ### Section 7: JavaScript ES6
 
- - [ ] 7.1 JavaScript ES6 - let, const, arrow functions and template literals
+ - [x] 7.1 JavaScript ES6 - let, const, arrow functions and template literals
  
- - [ ] 7.2 JavaScript ES6 - Objects
+ - [x] 7.2 JavaScript ES6 - Objects
  
- - [ ] 7.3 JavaScript unit tests
+ - [x] 7.3 JavaScript unit tests
  
- - [ ] 7.4 Project 09: JavaScript unit tests
+ - [x] 7.4 Project 09: JavaScript unit tests
  
  
 ### Section 8: JavaScript ES6
 
- - [ ] 8.1 Higher Order functions - forEach, find, some, every, sort
+ - [x] 8.1 Higher Order functions - forEach, find, some, every, sort
  
- - [ ] 8.2 Higher Order functions - map and filter
+ - [x] 8.2 Higher Order functions - map and filter
  
- - [ ] 8.3 Higher Order functions - reduce
+ - [x] 8.3 Higher Order functions - reduce
  
- - [ ] 8.4 Higher Order functions - spread operator, rest parameter, destructuring and more
+ - [x] 8.4 Higher Order functions - spread operator, rest parameter, destructuring and more
  
- - [ ] 8.5 Project 10: Zoo functions
+ - [x] 8.5 Project 10: Zoo functions
  
  
 ### Section 9:
 
- - [ ] 9.1 JavaScript async and callbacks
+ - [x] 9.1 JavaScript async and callbacks
  
- - [ ] 9.2 JavaScriot promises
+ - [x] 9.2 JavaScriot promises
  
  - [ ] 9.3 Project 11: Shop car
  

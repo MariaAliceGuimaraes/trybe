@@ -5,7 +5,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
 ### Introduction to Web Development
 
 
-### Section 1: Introduction - Unix and Bash
+#### Section 1: Introduction - Unix and Bash
 
   - [x] 1.1 Unix & Bash - Part 1
  
@@ -14,7 +14,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
   - [x] 1.3 Shell Script
  
  
-### Section 2: Git & GitHub
+#### Section 2: Git & GitHub
 
  - [x] 2.1 What is Git & GitHub?
  
@@ -23,7 +23,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 2.3 Understanding the Internet
  
  
-### Section 3: Introduction to HTML & CSS
+#### Section 3: Introduction to HTML & CSS
 
  - [x] 3.1 HTML & CSS: Webpage structure
  
@@ -36,7 +36,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 3.5 Project 01: HTML & CSS
  
  
-### Section 4: Introduction to JavaScript
+#### Section 4: Introduction to JavaScript
 
  - [x] 4.1 First steps JavaScript
  
@@ -49,7 +49,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 4.5 Project 02: Playground functions
  
  
-### Section 5: Introduction to JavaScript
+#### Section 5: Introduction to JavaScript
 
  - [x] 5.1 JavaScript: DOM and selectors
  
@@ -69,7 +69,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
 ### Front-End
 
 
-### Section 6: Introduction to Front-end
+#### Section 6: Introduction to Front-end
 
  - [x] 6.1 HTML&CSS - Forms
  
@@ -84,7 +84,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 6.6 Project 08: Facebook initial page
  
  
-### Section 7: JavaScript ES6
+#### Section 7: JavaScript ES6
 
  - [x] 7.1 JavaScript ES6 - let, const, arrow functions and template literals
  
@@ -95,7 +95,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 7.4 Project 09: JavaScript unit tests
  
  
-### Section 8: JavaScript ES6
+#### Section 8: JavaScript ES6
 
  - [x] 8.1 Higher Order functions - forEach, find, some, every, sort
  
@@ -108,7 +108,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 8.5 Project 10: Zoo functions
  
  
-### Section 9:
+#### Section 9:
 
  - [x] 9.1 JavaScript async and callbacks
  
@@ -117,7 +117,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [ ] 9.3 Project 11: Shop car
  
  
-### Section 10:
+#### Section 10:
 
  - [ ] 10.1 Jest - first steps
  
@@ -128,7 +128,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [ ] 10.4 Project 12: Async jest and mocking
  
  
-### Section 11:
+#### Section 11:
 
  - [ ] 11.1 Introduction to React - "Hello, World!"
  
@@ -137,7 +137,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [ ] 11.3 Project 13: Movie cards library
  
  
-### Section 12:
+#### Section 12:
 
  - [ ] 12.1 State components
  
@@ -146,7 +146,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [ ] 12.3 Project 14: Movie cards library stateful
  
  
-### Section 13:
+#### Section 13:
 
  - [ ] 13.1 Improving the reuse of components: props.children and propTypes
  
@@ -157,7 +157,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [ ] 13.4 Project 15: Movie cards library CRUD
  
  
-### Section 14:
+#### Section 14:
 
  - [ ] 14.1 Agile methodologies
  

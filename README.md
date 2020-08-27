@@ -7,16 +7,16 @@ This repository contains all exercises developed by Maria Alice Guimarães.
 
 ### Section 1: Introduction - Unix and Bash
 
- 1.1 Unix & Bash - Part 1
+  [x] 1.1 Unix & Bash - Part 1
  
- 1.2 Unix & Bash - Part 2
+  [x] 1.2 Unix & Bash - Part 2
  
- 1.3 Shell Script
+  [x] 1.3 Shell Script
  
  
 ### Section 2: Git & GitHub
 
- 2.1 What is Git & GitHub?
+  [x] 2.1 What is Git & GitHub?
  
  2.2 Git&GitHub - Understanding the commands
  

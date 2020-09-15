@@ -1,8 +1,8 @@
-### Trybe
+## Trybe
 This repository contains all exercises developed by Maria Alice Guimarães.
 
 
-### Introduction to Web Development
+## Introduction to Web Development
 
 
 #### Section 1: Introduction - Unix and Bash
@@ -66,7 +66,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 5.5 Project 05: To-do list
 
 
-### Front-End
+## Front-End
 
 
 #### Section 6: Introduction to Front-end

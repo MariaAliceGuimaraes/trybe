@@ -1,8 +1,8 @@
-### Trybe
+## Trybe
 This repository contains all exercises developed by Maria Alice Guimarães.
 
 
-### Introduction to Web Development
+## Introduction to Web Development
 
 
 #### Section 1: Introduction - Unix and Bash
@@ -66,7 +66,7 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 5.5 Project 05: To-do list
 
 
-### Front-End
+## Front-End
 
 
 #### Section 6: Introduction to Front-end
@@ -108,45 +108,45 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [x] 8.5 Project 10: Zoo functions
  
  
-#### Section 9:
+#### Section 9: Asynchronicity & Callbacks
 
  - [x] 9.1 JavaScript async and callbacks
  
  - [x] 9.2 JavaScriot promises
  
- - [ ] 9.3 Project 11: Shop car
+ - [x] 9.3 Project 11: Shop car
  
  
-#### Section 10:
+#### Section 10: Jest
 
- - [ ] 10.1 Jest - first steps
+ - [x] 10.1 Jest - first steps
  
- - [ ] 10.2 Jest - Async tests
+ - [x] 10.2 Jest - Async tests
  
- - [ ] 10.3 Jest - simulating behaviours
+ - [x] 10.3 Jest - simulating behaviours
  
- - [ ] 10.4 Project 12: Async jest and mocking
+ - [x] 10.4 Project 12: Async jest and mocking
  
- 
-#### Section 11:
+  
+#### Section 11: Introduction - React
 
- - [ ] 11.1 Introduction to React - "Hello, World!"
+ - [x] 11.1 Introduction to React - "Hello, World!"
  
- - [ ] 11.2 React components
+ - [x] 11.2 React components
  
- - [ ] 11.3 Project 13: Movie cards library
+ - [x] 11.3 Project 13: Movie cards library
  
  
-#### Section 12:
+#### Section 12: React
 
- - [ ] 12.1 State components
+ - [x] 12.1 State components
  
- - [ ] 12.2 Events and forms at React
+ - [x] 12.2 Events and forms at React
  
  - [ ] 12.3 Project 14: Movie cards library stateful
  
  
-#### Section 13:
+#### Section 13: React
 
  - [ ] 13.1 Improving the reuse of components: props.children and propTypes
  
@@ -157,8 +157,198 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  - [ ] 13.4 Project 15: Movie cards library CRUD
  
  
-#### Section 14:
+#### Section 14: Agile Methodologies
 
  - [ ] 14.1 Agile methodologies
  
  - [ ] 14.2 Project 16: Frontend Online store
+ 
+ 
+#### Block 15: React
+
+- [ ] 15-1: Testing React with the React Testing Library
+
+- [ ] 15-2: Testing React with the React Testing Library - Part 2
+
+- [ ] 15-3: Project - React Tests
+
+
+#### Block 16: React
+
+- [ ] 16-1: Introduction to Redux
+
+- [ ] 16-2: React with Redux - part 1
+
+- [ ] 16-3: React with Redux - Practice
+
+- [ ] 16-4: React with Redux - part 2
+
+- [ ] 16-5: Synchronous tests with React-Redux
+
+- [ ] 16-6: Project - Table with data filters
+
+
+#### Block 17: React
+
+- [ ] 17-1: Project - Trivia Game
+
+
+#### Block 18: React & Redux
+
+- [ ] 18-1: React Context API
+
+- [ ] 18-2: React Hooks - useState and useContext
+
+- [ ] 18-3: React Hooks - useEffect and custom Hooks
+
+- [ ] 18-4: Project - Datatable StarWars with Context API and Hooks
+
+
+#### Block 19: Final Front-end Project
+
+- [ ] 19-1: Project - Recipe App
+
+
+## Back-end development 
+
+
+#### Block 20: Introduction - Relational Databases
+
+- [ ] 20-1: SQL database
+
+- [ ] 20-2: Finding data in a database
+
+- [ ] 20-3: Filtering data specifically
+
+- [ ] 20-4: Manipulating tables
+
+- [ ] 20-5: Project - All For One
+
+
+#### Block 21: Relational Databases
+
+- [ ] 21-1: Most used functions in SQL
+
+- [ ] 21-2: Uncomplicating JOINs and UNIONs
+
+- [ ] 21-3: Stored Routines & Subqueries
+
+- [ ] 21-4: Project - Vocabulary Booster
+
+
+#### Block 22: Relational Databases
+
+- [ ] 22-1: Transforming ideas into a database model
+
+- [ ] 22-2: Normalization, Normal Forms and Dumps
+
+- [ ] 22-3: Transforming ideas into a database model - Part 2
+
+- [ ] 22-4: Project - One For All
+
+
+#### Block 23: Introduction - NoSQL
+
+- [ ] 23-1: MongoDB - Introduction
+
+- [ ] 23-2: Filter Operators
+
+- [ ] 23-3: Project - Data Flights
+
+
+#### Block 24: Updates
+
+- [ ] 24-1: Simple Updates
+
+- [ ] 24-2: Complex Updates - Arrays - Part 1
+
+- [ ] 24-3: Complex Updates - Arrays - Part 2
+
+- [ ] 24-4: Project - Commerce
+
+
+#### Block 25: Aggregation Framework
+
+- [ ] 25-1: Aggregation Framework - Part 1
+
+- [ ] 25-2: Aggregation Framework - Part 2
+
+- [ ] 25-3: Project - Aggregations
+
+
+#### Block 26: Intro - NodeJS
+
+- [ ] 26-1: NodeJS - Introduction
+
+- [ ] 26-3: NodeJS - Asynchronous Flow
+
+- [ ] 26-2: NodeJS - Architecture
+
+- [ ] 26-4: Project - A CLI of Ice and Fire
+
+
+#### Block 27: NodeJS
+
+- [ ] 27-1: Express: HTTP with Node.js
+
+- [ ] 27-2: Software Architecture - Introduction to MVC
+
+- [ ] 27-3: Project - Cookmaster
+
+
+#### Block 28: NodeJS
+
+- [ ] 28-1: Software Architecture - Service Layer
+
+- [ ] 28-2: Web architecture - Rest and Restful
+
+- [ ] 28-3: Project - Store Manager
+
+
+#### Block 29: NodeJS
+
+- [ ] 29-1: NodeJS - JWT - JSON Web Token
+
+- [ ] 29-2: NodeJS - Upload files with Multer
+
+- [ ] 29-3: Project - Cookmaster V2
+
+
+## Infrastructures 
+
+
+#### Block 30: Introduction - Deploy
+
+- [ ] 30-1: Infrastructure - Deploy with Heroku
+
+- [ ] 30-2: Deploy - Process Managers
+
+- [ ] 30-3: Project - Stranger Things
+
+
+#### Block 31: Project
+
+- [ ] 31-1: Project - Trybeer
+
+
+#### Block 32: Software Architecture
+
+- [ ] 32-1: Architecture - SOLID Principles
+
+- [ ] 32-2: ORM - Application interface with the database
+
+- [ ] 32-3: Software Architecture - DDD
+
+- [ ] 32-4: Good practice in writing tests
+
+- [ ] 32-5: Project - Blogs API
+
+
+#### Block 32: Sockets
+
+- [ ] 33-1: Sockets - TCP/UDP & NET
+
+- [ ] 33-2: Sockets - Socket.io
+
+- [ ] 33-3: Project - Webchat
+

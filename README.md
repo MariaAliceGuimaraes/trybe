@@ -143,65 +143,65 @@ This repository contains all exercises developed by Maria Alice Guimarães.
  
  - [x] 12.2 Events and forms at React
  
- - [ ] 12.3 Project 14: Movie cards library stateful
+ - [x] 12.3 Project 14: Movie cards library stateful
  
  
 #### Section 13: React
 
- - [ ] 13.1 Improving the reuse of components: props.children and propTypes
+ - [x] 13.1 Improving the reuse of components: props.children and propTypes
  
- - [ ] 13.2 React components life cycle
+ - [x] 13.2 React components life cycle
  
- - [ ] 13.3 React Router
+ - [x] 13.3 React Router
  
- - [ ] 13.4 Project 15: Movie cards library CRUD
+ - [x] 13.4 Project 15: Movie cards library CRUD
  
  
 #### Section 14: Agile Methodologies
 
- - [ ] 14.1 Agile methodologies
+ - [x] 14.1 Agile methodologies
  
- - [ ] 14.2 Project 16: Frontend Online store
+ - [x] 14.2 Project 16: Frontend Online store
  
  
 #### Block 15: React
 
-- [ ] 15-1: Testing React with the React Testing Library
+ - [x] 15-1: Testing React with the React Testing Library
 
-- [ ] 15-2: Testing React with the React Testing Library - Part 2
+ - [x] 15-2: Testing React with the React Testing Library - Part 2
 
-- [ ] 15-3: Project - React Tests
+ - [x] 15-3: Project - React Tests
 
 
 #### Block 16: React
 
-- [ ] 16-1: Introduction to Redux
+ - [x] 16-1: Introduction to Redux
 
-- [ ] 16-2: React with Redux - part 1
+ - [x] 16-2: React with Redux - part 1
 
-- [ ] 16-3: React with Redux - Practice
+ - [x] 16-3: React with Redux - Practice
 
-- [ ] 16-4: React with Redux - part 2
+ - [x] 16-4: React with Redux - part 2
 
-- [ ] 16-5: Synchronous tests with React-Redux
+ - [x] 16-5: Synchronous tests with React-Redux
 
-- [ ] 16-6: Project - Table with data filters
+ - [x] 16-6: Project - Table with data filters
 
 
 #### Block 17: React
 
-- [ ] 17-1: Project - Trivia Game
+ - [x] 17-1: Project - Trivia Game
 
 
 #### Block 18: React & Redux
 
-- [ ] 18-1: React Context API
+ - [x] 18-1: React Context API
 
-- [ ] 18-2: React Hooks - useState and useContext
+ - [x] 18-2: React Hooks - useState and useContext
 
-- [ ] 18-3: React Hooks - useEffect and custom Hooks
+ - [x] 18-3: React Hooks - useEffect and custom Hooks
 
-- [ ] 18-4: Project - Datatable StarWars with Context API and Hooks
+ - [x] 18-4: Project - Datatable StarWars with Context API and Hooks
 
 
 #### Block 19: Final Front-end Project
